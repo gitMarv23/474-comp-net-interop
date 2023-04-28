@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.14)  27 APR 2023 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.14)  27 APR 2023 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -38,6 +38,42 @@ LaTeX Warning: Label `9188557' multiply defined.
 
 LaTeX Warning: Label `9045797' multiply defined.
 
+
+LaTeX Warning: Label `10000698' multiply defined.
+
+
+LaTeX Warning: Label `9668587' multiply defined.
+
+
+LaTeX Warning: Label `10035644' multiply defined.
+
+
+LaTeX Warning: Label `10053447' multiply defined.
+
+
+LaTeX Warning: Label `8681423' multiply defined.
+
+
+LaTeX Warning: Label `9744500' multiply defined.
+
+
+LaTeX Warning: Label `10072595' multiply defined.
+
+
+LaTeX Warning: Label `8855546' multiply defined.
+
+
+LaTeX Warning: Label `9169627' multiply defined.
+
+
+LaTeX Warning: Label `9929315' multiply defined.
+
+
+LaTeX Warning: Label `9721514' multiply defined.
+
+
+LaTeX Warning: Label `8727988' multiply defined.
+
 )
 \openout1 = `report.aux'.
 
@@ -61,31 +97,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
- (./report.bbl) [1
+ (./report.bbl [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./repo
-rt.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] [3
+] (./report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 434 strings out of 478268
- 7790 string characters out of 5846347
- 300894 words of memory out of 5000000
- 18711 multiletter control sequences out of 15000+600000
+ 447 strings out of 478268
+ 7910 string characters out of 5846347
+ 304894 words of memory out of 5000000
+ 18724 multiletter control sequences out of 15000+600000
  473245 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,38p,157b,191s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 34i,6n,38p,189b,215s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (1 page, 70182 bytes).
+Output written on report.pdf (3 pages, 82205 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
