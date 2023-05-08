@@ -6,8 +6,14 @@
 \title{Influence Maximization}
 \author{Marvin Barajas}
 \date{\today}				% always ensure date is at the most recent before submission
+
 \usepackage[margin=1in]{geometry}	% specify 1in margins all side
+\usepackage{setspace}			% package for line spacing specification
+\usepackage{mathptmx}			% closest times new roman font type
+
 \begin{document}
+% TODO: verify line spacing with word 1.5 setting
+\linespread{1.3}			% 1.5 line spaces on document
 \maketitle				% document title page
 \pagebreak
 In an online, connected world where any information about you can be written and exposed, Influence Maximization is a topic regularly practiced and rarely discussed. 
@@ -27,8 +33,12 @@ This can be traversed using Influence Maximization, however, existing methods of
 The connection of such techniques still require weight analysis of network nodes, but the traversal still requires too many sequences to be used efficiently.
 
 Social media tyrants are the primary occupants of Influence Maximization. 
-Amongst a variety of companies (such as Facebook, Twitter, WhatsApp, Instagram, etc\.) Influence Maximization is incorporated on a model based on network topology that is the result of people's interactions on that social network \cite{9045797}. 
-Methods of measurement examined by Guo et. al can be divided into three measures titled \emph{node degree}, \emph{shortest path}, and \emph{random walk characteristics} \cite{9045797}.
+Amongst a variety of companies (such as Facebook, Twitter, WhatsApp, Instagram, etc\ldots) Influence Maximization is incorporated on a model based on network topology that is the result of people's interactions on that social network \cite{9045797}. 
+Methods of measurement examined by Guo et. al can be divided into three measures titled \emph{node degree}, \emph{shortest path}, and \emph{random walk characteristics} \cite{9045797}. 
+We have seen network topology algorithms in class such as the Distance Vector (DV) or Link State (LS) algorithms that exhibit shortest path and random walk characteristics respectively. 
+As such, Influence Maximization measures these values to exhibit the best connections for user recommendations or ad direction.
+
+
 
 % TODO: fix bibliography output format once paper is complete
 \bibliography{citations}	% bibliography database file with citation information
