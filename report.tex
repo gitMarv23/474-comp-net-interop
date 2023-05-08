@@ -1,15 +1,15 @@
 % final paper to be submitted before May 7th. Refer to prompt for instructions
 
-\documentclass{article}
+\documentclass[12pt]{article}
 
 % document information that will be printed on the title page
 \title{Influence Maximization}
 \author{Marvin Barajas}
-\date{\today}			% always ensure date is at the most recent before submission
-
+\date{\today}				% always ensure date is at the most recent before submission
+\usepackage[margin=1in]{geometry}	% specify 1in margins all side
 \begin{document}
-\maketitle			% document title page
-
+\maketitle				% document title page
+\pagebreak
 In an online, connected world where any information about you can be written and exposed, Influence Maximization is a topic regularly practiced and rarely discussed. 
 It can be found applied in some of the most common systems utilized in a connected world since the birth of the World Wide Web. 
 Also, its applications are very attractive to eCommerce companies that are interested in discovering information about their customers to recommend the best products, or social media giants that want to connect their users for a more fluid experience. 
@@ -26,12 +26,15 @@ In a similar manner, mobile users can spread information, opinions, ideas, and r
 This can be traversed using Influence Maximization, however, existing methods of influence maximization are heuristic algorithms based on network topology and greedy algorithms based on spreading \cite{9744500}. 
 The connection of such techniques still require weight analysis of network nodes, but the traversal still requires too many sequences to be used efficiently.
 
-
+Social media tyrants are the primary occupants of Influence Maximization. 
+Amongst a variety of companies (such as Facebook, Twitter, WhatsApp, Instagram, etc\.) Influence Maximization is incorporated on a model based on network topology that is the result of people's interactions on that social network \cite{9045797}. 
+Methods of measurement examined by Guo et. al can be divided into three measures titled \emph{node degree}, \emph{shortest path}, and \emph{random walk characteristics} \cite{9045797}.
 
 % TODO: fix bibliography output format once paper is complete
 \bibliography{citations}	% bibliography database file with citation information
 \bibliographystyle{plain}	% bibliography style to show on output
 \begin{thebibliography}{99}	% TODO: second parameter for bibliography
+\nocite{*}
 
 % list bibliography items
 \bibitem{9695654,9188557,9188557,9045797,10000698,9668587,10035644,10053447,8681423,9744500,10072595,8855546,9169627,9929315,9721514,8727988}

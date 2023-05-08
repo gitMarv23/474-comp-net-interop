@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{9721514}
 Zahra Aghaee and Afsaneh Fatemi.
@@ -6,6 +6,97 @@ Zahra Aghaee and Afsaneh Fatemi.
   using topological features.
 \newblock In {\em 2021 11th International Conference on Computer Engineering
   and Knowledge (ICCKE)}, pages 128--133, 2021.
+
+\bibitem{9929315}
+Yigit~E. Bayiz and Ufuk Topcu.
+\newblock Decentralized online influence maximization.
+\newblock In {\em 2022 58th Annual Allerton Conference on Communication,
+  Control, and Computing (Allerton)}, pages 1--8, 2022.
+
+\bibitem{9668587}
+Deboleena Bhattacharyya, Khavin Shankar~G, P~Aaranan, K~Raja, Amira Alturki,
+  and Mithileysh Sathiyanarayanan.
+\newblock Predicting nodes for effectively spreading vaccine awareness: An
+  influence maximization approach.
+\newblock In {\em 2021 4th International Symposium on Advanced Electrical and
+  Communication Technologies (ISAECT)}, pages 1--6, 2021.
+
+\bibitem{9188557}
+Hao Chen, Weiqing Xiong, Peichen Xiong, and Jiaying Zhao.
+\newblock Study on inter-temporal pricing to suppress negative network
+  externalities of merchants in two-sided markets.
+\newblock In {\em 2020 39th Chinese Control Conference (CCC)}, pages
+  6668--6673, 2020.
+
+\bibitem{8727988}
+Xiaoheng Deng, Fang Long, Bo~Li, Dejuan Cao, and Yan Pan.
+\newblock An influence model based on heterogeneous online social network for
+  influence maximization.
+\newblock {\em IEEE Transactions on Network Science and Engineering},
+  7(2):737--749, 2020.
+
+\bibitem{10000698}
+Thang Dinh, An~Nguyen, Uyen Nguyen, and Giang Nguyen.
+\newblock Quantum social computing approaches for influence maximization.
+\newblock In {\em GLOBECOM 2022 - 2022 IEEE Global Communications Conference},
+  pages 5832--5837, 2022.
+
+\bibitem{9045797}
+Yuning Guo, Jianxiang Cao, and Weiguo Lin.
+\newblock Social network influence analysis.
+\newblock In {\em 2019 6th International Conference on Dependable Systems and
+  Their Applications (DSA)}, pages 517--518, 2020.
+
+\bibitem{10035644}
+Kundan Kandhway.
+\newblock Multi-objective information maximization in a social network.
+\newblock In {\em 2023 17th International Conference on Ubiquitous Information
+  Management and Communication (IMCOM)}, pages 1--4, 2023.
+
+\bibitem{9169627}
+Radosław Michalski, Jarosław Jankowski, and Piotr Bródka.
+\newblock Effective influence spreading in temporal networks with sequential
+  seeding.
+\newblock {\em IEEE Access}, 8:151208--151218, 2020.
+
+\bibitem{10053447}
+Shambhavi Mishra and Rajendra~Kumar Dwivedi.
+\newblock Leveraging deep learning to spot communities for influence
+  maximization in social networks.
+\newblock In {\em 2023 International Conference on Intelligent Data
+  Communication Technologies and Internet of Things (IDCIoT)}, pages 377--382,
+  2023.
+
+\bibitem{10072595}
+Amit Mittal, Meenal Arora, and Ajay Rana.
+\newblock Imep: Influence maximization on social media with the impact of
+  e-commerce products.
+\newblock In {\em 2022 5th International Conference on Contemporary Computing
+  and Informatics (IC3I)}, pages 1789--1793, 2022.
+
+\bibitem{8681423}
+Ashis Talukder, Md. Golam~Rabiul Alam, Nguyen~H. Tran, Dusit Niyato, and
+  Choong~Seon Hong.
+\newblock Knapsack-based reverse influence maximization for target marketing in
+  social networks.
+\newblock {\em IEEE Access}, 7:44182--44198, 2019.
+
+\bibitem{8855546}
+Chengcheng Wang, Xingjian Ma, Wenwen Jiang, Liang Zhao, Na~Lin, and Junling
+  Shi.
+\newblock Imcr: Influence maximisation-based cluster routing algorithm for
+  sdvn.
+\newblock In {\em 2019 IEEE 21st International Conference on High Performance
+  Computing and Communications; IEEE 17th International Conference on Smart
+  City; IEEE 5th International Conference on Data Science and Systems
+  (HPCC/SmartCity/DSS)}, pages 2580--2586, 2019.
+
+\bibitem{9695654}
+Yishu Wang, Guanghui Yan, Zhe Li, and Ye~Lv.
+\newblock Research on influence maximization of citation network from the
+  perspective of meme.
+\newblock In {\em 2021 3rd International Academic Exchange Conference on
+  Science and Technology Innovation (IAECST)}, pages 509--512, 2021.
 
 \bibitem{9744500}
 Xinxin Zhang, Li~Xu, and Zhenyu Xu.
